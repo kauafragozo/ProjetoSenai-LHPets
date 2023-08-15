@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "g7YTufCL0/R9S3ZR1DXZ6MM/2ydzqO/OEDQhjXJD4Qo=",
+  "Source": "Projeto LH-Pets",
+  "BasePath": "_content/Projeto LH-Pets",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto LH-Pets\\wwwroot",
+      "Source": "Projeto LH-Pets",
+      "ContentRoot": "C:\\Users\\kakaz\\OneDrive\\Área de Trabalho\\Projeto LH-PETS\\ProjetoSenai-LHPets\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Projeto LH-Pets",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\kakaz\\OneDrive\\Área de Trabalho\\Projeto LH-PETS\\ProjetoSenai-LHPets\\Sistema\\wwwroot\\index.html",
+      "SourceId": "Projeto LH-Pets",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kakaz\\OneDrive\\Área de Trabalho\\Projeto LH-PETS\\ProjetoSenai-LHPets\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Projeto LH-Pets",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

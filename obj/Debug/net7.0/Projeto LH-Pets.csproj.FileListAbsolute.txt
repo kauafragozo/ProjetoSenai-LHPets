@@ -1,0 +1,68 @@
+C:\Users\kakaz\OneDrive\Documentos\Projetos\Projeto LH-Pets\obj\Debug\net7.0\Projeto LH-Pets.csproj.AssemblyReference.cache
+C:\Users\kakaz\OneDrive\Documentos\Projetos\Projeto LH-Pets\obj\Debug\net7.0\Projeto LH-Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kakaz\OneDrive\Documentos\Projetos\Projeto LH-Pets\obj\Debug\net7.0\Projeto LH-Pets.AssemblyInfoInputs.cache
+C:\Users\kakaz\OneDrive\Documentos\Projetos\Projeto LH-Pets\obj\Debug\net7.0\Projeto LH-Pets.AssemblyInfo.cs
+C:\Users\kakaz\OneDrive\Documentos\Projetos\Projeto LH-Pets\obj\Debug\net7.0\Projeto LH-Pets.csproj.CoreCompileInputs.cache
+C:\Users\kakaz\OneDrive\Documentos\Projetos\Projeto LH-Pets\obj\Debug\net7.0\Projeto LH-Pets.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kakaz\OneDrive\Documentos\Projetos\Projeto LH-Pets\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\kakaz\OneDrive\Documentos\Projetos\Projeto LH-Pets\bin\Debug\net7.0\appsettings.json
+C:\Users\kakaz\OneDrive\Documentos\Projetos\Projeto LH-Pets\bin\Debug\net7.0\Projeto LH-Pets.staticwebassets.runtime.json
+C:\Users\kakaz\OneDrive\Documentos\Projetos\Projeto LH-Pets\bin\Debug\net7.0\Projeto LH-Pets.exe
+C:\Users\kakaz\OneDrive\Documentos\Projetos\Projeto LH-Pets\bin\Debug\net7.0\Projeto LH-Pets.deps.json
+C:\Users\kakaz\OneDrive\Documentos\Projetos\Projeto LH-Pets\bin\Debug\net7.0\Projeto LH-Pets.runtimeconfig.json
+C:\Users\kakaz\OneDrive\Documentos\Projetos\Projeto LH-Pets\bin\Debug\net7.0\Projeto LH-Pets.dll
+C:\Users\kakaz\OneDrive\Documentos\Projetos\Projeto LH-Pets\bin\Debug\net7.0\Projeto LH-Pets.pdb
+C:\Users\kakaz\OneDrive\Documentos\Projetos\Projeto LH-Pets\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\kakaz\OneDrive\Documentos\Projetos\Projeto LH-Pets\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\kakaz\OneDrive\Documentos\Projetos\Projeto LH-Pets\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\kakaz\OneDrive\Documentos\Projetos\Projeto LH-Pets\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\kakaz\OneDrive\Documentos\Projetos\Projeto LH-Pets\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kakaz\OneDrive\Documentos\Projetos\Projeto LH-Pets\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kakaz\OneDrive\Documentos\Projetos\Projeto LH-Pets\obj\Debug\net7.0\staticwebassets\msbuild.Projeto LH-Pets.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kakaz\OneDrive\Documentos\Projetos\Projeto LH-Pets\obj\Debug\net7.0\staticwebassets\msbuild.build.Projeto LH-Pets.props
+C:\Users\kakaz\OneDrive\Documentos\Projetos\Projeto LH-Pets\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Projeto LH-Pets.props
+C:\Users\kakaz\OneDrive\Documentos\Projetos\Projeto LH-Pets\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Projeto LH-Pets.props
+C:\Users\kakaz\OneDrive\Documentos\Projetos\Projeto LH-Pets\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\kakaz\OneDrive\Documentos\Projetos\Projeto LH-Pets\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\kakaz\OneDrive\Documentos\Projetos\Projeto LH-Pets\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\kakaz\OneDrive\Documentos\Projetos\Projeto LH-Pets\obj\Debug\net7.0\scopedcss\bundle\Projeto LH-Pets.styles.css
+C:\Users\kakaz\OneDrive\Documentos\Projetos\Projeto LH-Pets\obj\Debug\net7.0\Projeto LH-Pets.csproj.CopyComplete
+C:\Users\kakaz\OneDrive\Documentos\Projetos\Projeto LH-Pets\obj\Debug\net7.0\Projeto LH-Pets.dll
+C:\Users\kakaz\OneDrive\Documentos\Projetos\Projeto LH-Pets\obj\Debug\net7.0\refint\Projeto LH-Pets.dll
+C:\Users\kakaz\OneDrive\Documentos\Projetos\Projeto LH-Pets\obj\Debug\net7.0\Projeto LH-Pets.pdb
+C:\Users\kakaz\OneDrive\Documentos\Projetos\Projeto LH-Pets\obj\Debug\net7.0\Projeto LH-Pets.genruntimeconfig.cache
+C:\Users\kakaz\OneDrive\Documentos\Projetos\Projeto LH-Pets\obj\Debug\net7.0\ref\Projeto LH-Pets.dll
+C:\Users\kakaz\OneDrive\Área de Trabalho\Projeto LH-PETS\ProjetoSenai-LHPets\Sistema\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\kakaz\OneDrive\Área de Trabalho\Projeto LH-PETS\ProjetoSenai-LHPets\Sistema\bin\Debug\net7.0\appsettings.json
+C:\Users\kakaz\OneDrive\Área de Trabalho\Projeto LH-PETS\ProjetoSenai-LHPets\Sistema\bin\Debug\net7.0\Projeto LH-Pets.staticwebassets.runtime.json
+C:\Users\kakaz\OneDrive\Área de Trabalho\Projeto LH-PETS\ProjetoSenai-LHPets\Sistema\bin\Debug\net7.0\Projeto LH-Pets.exe
+C:\Users\kakaz\OneDrive\Área de Trabalho\Projeto LH-PETS\ProjetoSenai-LHPets\Sistema\bin\Debug\net7.0\Projeto LH-Pets.deps.json
+C:\Users\kakaz\OneDrive\Área de Trabalho\Projeto LH-PETS\ProjetoSenai-LHPets\Sistema\bin\Debug\net7.0\Projeto LH-Pets.runtimeconfig.json
+C:\Users\kakaz\OneDrive\Área de Trabalho\Projeto LH-PETS\ProjetoSenai-LHPets\Sistema\bin\Debug\net7.0\Projeto LH-Pets.dll
+C:\Users\kakaz\OneDrive\Área de Trabalho\Projeto LH-PETS\ProjetoSenai-LHPets\Sistema\bin\Debug\net7.0\Projeto LH-Pets.pdb
+C:\Users\kakaz\OneDrive\Área de Trabalho\Projeto LH-PETS\ProjetoSenai-LHPets\Sistema\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\kakaz\OneDrive\Área de Trabalho\Projeto LH-PETS\ProjetoSenai-LHPets\Sistema\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\kakaz\OneDrive\Área de Trabalho\Projeto LH-PETS\ProjetoSenai-LHPets\Sistema\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\kakaz\OneDrive\Área de Trabalho\Projeto LH-PETS\ProjetoSenai-LHPets\Sistema\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\kakaz\OneDrive\Área de Trabalho\Projeto LH-PETS\ProjetoSenai-LHPets\Sistema\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kakaz\OneDrive\Área de Trabalho\Projeto LH-PETS\ProjetoSenai-LHPets\Sistema\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kakaz\OneDrive\Área de Trabalho\Projeto LH-PETS\ProjetoSenai-LHPets\Sistema\obj\Debug\net7.0\Projeto LH-Pets.csproj.AssemblyReference.cache
+C:\Users\kakaz\OneDrive\Área de Trabalho\Projeto LH-PETS\ProjetoSenai-LHPets\Sistema\obj\Debug\net7.0\Projeto LH-Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kakaz\OneDrive\Área de Trabalho\Projeto LH-PETS\ProjetoSenai-LHPets\Sistema\obj\Debug\net7.0\Projeto LH-Pets.AssemblyInfoInputs.cache
+C:\Users\kakaz\OneDrive\Área de Trabalho\Projeto LH-PETS\ProjetoSenai-LHPets\Sistema\obj\Debug\net7.0\Projeto LH-Pets.AssemblyInfo.cs
+C:\Users\kakaz\OneDrive\Área de Trabalho\Projeto LH-PETS\ProjetoSenai-LHPets\Sistema\obj\Debug\net7.0\Projeto LH-Pets.csproj.CoreCompileInputs.cache
+C:\Users\kakaz\OneDrive\Área de Trabalho\Projeto LH-PETS\ProjetoSenai-LHPets\Sistema\obj\Debug\net7.0\Projeto LH-Pets.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kakaz\OneDrive\Área de Trabalho\Projeto LH-PETS\ProjetoSenai-LHPets\Sistema\obj\Debug\net7.0\staticwebassets\msbuild.Projeto LH-Pets.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kakaz\OneDrive\Área de Trabalho\Projeto LH-PETS\ProjetoSenai-LHPets\Sistema\obj\Debug\net7.0\staticwebassets\msbuild.build.Projeto LH-Pets.props
+C:\Users\kakaz\OneDrive\Área de Trabalho\Projeto LH-PETS\ProjetoSenai-LHPets\Sistema\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Projeto LH-Pets.props
+C:\Users\kakaz\OneDrive\Área de Trabalho\Projeto LH-PETS\ProjetoSenai-LHPets\Sistema\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Projeto LH-Pets.props
+C:\Users\kakaz\OneDrive\Área de Trabalho\Projeto LH-PETS\ProjetoSenai-LHPets\Sistema\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\kakaz\OneDrive\Área de Trabalho\Projeto LH-PETS\ProjetoSenai-LHPets\Sistema\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\kakaz\OneDrive\Área de Trabalho\Projeto LH-PETS\ProjetoSenai-LHPets\Sistema\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\kakaz\OneDrive\Área de Trabalho\Projeto LH-PETS\ProjetoSenai-LHPets\Sistema\obj\Debug\net7.0\scopedcss\bundle\Projeto LH-Pets.styles.css
+C:\Users\kakaz\OneDrive\Área de Trabalho\Projeto LH-PETS\ProjetoSenai-LHPets\Sistema\obj\Debug\net7.0\Projeto LH-Pets.csproj.CopyComplete
+C:\Users\kakaz\OneDrive\Área de Trabalho\Projeto LH-PETS\ProjetoSenai-LHPets\Sistema\obj\Debug\net7.0\Projeto LH-Pets.dll
+C:\Users\kakaz\OneDrive\Área de Trabalho\Projeto LH-PETS\ProjetoSenai-LHPets\Sistema\obj\Debug\net7.0\refint\Projeto LH-Pets.dll
+C:\Users\kakaz\OneDrive\Área de Trabalho\Projeto LH-PETS\ProjetoSenai-LHPets\Sistema\obj\Debug\net7.0\Projeto LH-Pets.pdb
+C:\Users\kakaz\OneDrive\Área de Trabalho\Projeto LH-PETS\ProjetoSenai-LHPets\Sistema\obj\Debug\net7.0\Projeto LH-Pets.genruntimeconfig.cache
+C:\Users\kakaz\OneDrive\Área de Trabalho\Projeto LH-PETS\ProjetoSenai-LHPets\Sistema\obj\Debug\net7.0\ref\Projeto LH-Pets.dll
